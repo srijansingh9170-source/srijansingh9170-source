@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Srijan Singh
 
-<!--
-**srijansingh9170-source/srijansingh9170-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI & ML) Student  
+Interested in AI, Machine Learning and Open Source  
 
-Here are some ideas to get you started:
+Skills:
+- Python
+- C++
+- HTML / CSS
+- Git / GitHub (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Goals:
+- Contribute to Open Source
+- Build strong GitHub portfolio
+- Prepare for GSoC
+
+Projects:
+Coming soon 🚀
