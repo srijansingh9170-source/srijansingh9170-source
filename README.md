@@ -1,18 +1,20 @@
-Hi, I'm Srijan Singh
+Hi, I'm Srijan Singh 👋
 
 B.Tech CSE (AI & ML) Student  
-Interested in AI, Machine Learning and Open Source  
+Interested in Open Source, AI/ML, and Web Development  
+Currently improving my skills in Python, C++, and JavaScript  
 
-Skills:
-- Python
-- C++
-- HTML / CSS
-- Git / GitHub (learning)
+Skills
+- Languages: Python, C++, JavaScript
+- Web: HTML, CSS
+- Tools: Git, GitHub, VS Code
 
-Current Goals:
-- Contribute to Open Source
-- Build strong GitHub portfolio
-- Prepare for GSoC
+Projects
+- File Organizer (Python)
+- DSA Practice Repository
+- Portfolio Website
 
-Projects:
-Coming soon 🚀
+Connect with me
+- Email: srijansingh9170@gmail.com
+- Linkedin: www.linkedin.com/in/srijan-singh-113173373
+- GitHub: https://github.com/srijansingh9170-source
