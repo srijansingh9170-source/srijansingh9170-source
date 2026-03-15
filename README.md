@@ -2,7 +2,7 @@ Hi, I'm Srijan Singh 👋
 
 B.Tech CSE (AI & ML) Student  
 Interested in Open Source, AI/ML, and Web Development  
-Currently improving my skills in Python, C++, and JavaScript  
+Currently improving my skills in Python, C++, SQL, and JavaScript 
 
 Skills
 - Languages: Python, C++, JavaScript
