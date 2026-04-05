@@ -51,10 +51,5 @@ I'm a Computer Science student specializing in **AI & ML**, with a strong intere
 
 ---
 
-📈 GitHub Stats
-
-
----
-
 
   "The best way to predict the future is to build it."
